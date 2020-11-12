@@ -13,3 +13,4 @@ def contact():
 @core.route('/portfolio')
 def portfolio():
     return render_template('portfolio.html')
+
